@@ -19,4 +19,4 @@ You can access the data used in this project by downloading it directly from thi
 To download the entire repository, including the data, you can clone it using Git:
 
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/amarsaad19/tokyo-olympic.git)
+git clone https://github.com/amarsaad19/tokyo-olympic.git

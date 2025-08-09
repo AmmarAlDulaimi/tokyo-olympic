@@ -10,7 +10,7 @@ The primary data source for this project is a comprehensive dataset available on
 * **Author:** Arjun Prasad Sarkhel
 * **Platform:** Kaggle
 * **Original URL:** https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo/data
-* **Date Accessed:** August 9, 2023
+* **Date Accessed:** October 2, 2023
 
 ## Getting the Data
 
